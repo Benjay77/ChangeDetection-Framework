@@ -1,0 +1,10 @@
+/.idea/
+/TrainCode/dataset/
+/TrainCode/weights/
+/TrainCode/inference/weights/
+/TrainCode/train.h5
+/TrainCode/val.h5
+/TrainCode/tensorboard/
+/TrainCode/test.h5
+/TrainCode/results/
+/TrainCode/plot/
